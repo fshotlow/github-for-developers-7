@@ -1,4 +1,5 @@
-Frederick Shotlow
-Altadena, Ca
-Rice
-github
+[] Frederick Shotlow
+[] Altadena, Ca
+[] Rice
+[] github
+[] Blue
